@@ -1,7 +1,7 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
+		"host": "OnePunchMode.aternos.com",
+		"port": "23695",
 		"username": "Please enter the bot's username you want"
 	},
 	
